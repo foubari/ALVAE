@@ -1,6 +1,6 @@
-# VAE Comparison Project
+# Asymmetric Laplace Variational AutoEncoder
 
-A comprehensive implementation of various Variational Autoencoder (VAE) models for handling skewed and heavy-tailed distributions.
+A comprehensive comparison of ALVAE (Asymmetric Laplace Variational AutoEncoder) against various baseline VAE models for handling skewed and heavy-tailed distributions.
 
 ## Models Implemented
 
